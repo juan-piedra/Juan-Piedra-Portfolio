@@ -12,6 +12,6 @@ Added a media query for vertical devices
 ## App Image
 
 ## Live URL
-
+https://juan-piedra.github.io/Juan-Piedra-Portfolio/
 ## Author
 Juan Piedra
